@@ -1,0 +1,12 @@
+body {
+    background-color: #dadada !important;
+}
+
+.container, div, .navbar, .row {
+    background-color: white !important;
+}
+
+.row {
+    padding: 5px;
+}
+
