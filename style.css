@@ -1,12 +1,24 @@
 body {
     background-color: #dadada !important;
+    color: navy !important;
 }
 
 .container, div, .navbar, .row {
     background-color: white !important;
 }
 
+h1 {
+    color: navy;
+}
 .row {
     padding: 5px;
+}
+
+.nav-link {
+    color: navy !important;
+}
+
+.dropdown-item {
+    color: navy !important;
 }
 
